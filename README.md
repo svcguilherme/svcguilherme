@@ -102,11 +102,11 @@ Cloud architecture studies and enterprise-focused Azure solutions.
 
 # 🚀 Current Goals
 
-- Become a Cloud Architect
 - Master .NET and Angular
-- Improve English communication
+- Improve my English communication
 - Build scalable SaaS products
-- Work on international projects
+- Work as a contractor on Brazilian projects
+- Work as a contractor on international projects
 
 ---
 
