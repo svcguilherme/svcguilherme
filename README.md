@@ -66,22 +66,6 @@ Cloud architecture studies and enterprise-focused Azure solutions.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=svcguilherme&show_icons=true&theme=tokyonight" 
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=svcguilherme&layout=compact&theme=tokyonight" 
-  />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
