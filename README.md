@@ -1,3 +1,102 @@
+# 🇧🇷 Português
+
+<h1 align="center">Olá 👋, eu sou Guilherme Sant' Anna</h1>
+
+<h3 align="center">
+Desenvolvedor Full Stack | .NET | Angular | Azure
+</h3>
+
+<p align="center">
+Desenvolvendo aplicações escaláveis, integrações e soluções cloud com tecnologias modernas.
+</p>
+
+---
+
+# 🚀 Sobre Mim
+
+- 💻 Desenvolvedor de Software com experiência em backend, frontend e integrações
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 🧠 Clean Architecture, DDD, Event Driven e Arquitetura Cloud
+- 🌎 Interessado em oportunidades remotas nacionais e internacionais
+- 📚 Atualmente aplicando:
+  - .NET
+  - Angular
+  - Azure
+  - Testes Automatizados
+  - Inglês
+
+---
+
+# 🛠️ Stack Tecnológica
+
+## Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
+# 📌 Projetos em Destaque
+
+## 🔹 ExampleEventDriven
+Exemplo de arquitetura Event Driven utilizando C#.
+
+## 🔹 Calculadora Estudo
+Projeto em Python criado para auxiliar no controle de horas de estudo.
+
+## 🔹 TaskShare
+Plataforma SaaS para gerenciamento de solicitações e tarefas.
+
+## 🔹 LayerCloud
+Estudos de arquitetura cloud e soluções Azure voltadas para empresas.
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=svcguilherme&theme=tokyonight" 
+  />
+</p>
+
+---
+
+# 🌎 Conecte-se comigo
+
+- 💼 LinkedIn
+- 🌐 www.guilhermesantanna.dev.br
+- 📧 guilherme.santanna.it@gmail.com
+
+---
+
+# 🚀 Objetivos Atuais
+
+- Me tornar especialista em .NET e Angular
+- Melhorar minha comunicação em inglês
+- Construir produtos SaaS escaláveis
+- Trabalhar como contractor em projetos nacionais
+- Trabalhar como contractor em projetos internacionais
+
+---
+
+# 🇺🇸 English
+
 <h1 align="center">Hi 👋, I'm Guilherme Sant' Anna</h1>
 
 <h3 align="center">
@@ -13,11 +112,10 @@ Building scalable applications, integrations and cloud solutions with modern tec
 # 🚀 About Me
 
 - 💻 Software Engineer with experience in backend, frontend and integrations
-- 🔥 Focused on scalable architectures and cloud solutions
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-- 🧠 Studying Clean Architecture, DDD, Event Driven and Cloud Architecture
+- 🧠 Clean Architecture, DDD, Event Driven and Cloud Architecture
 - 🌎 Interested in international remote opportunities
-- 📚 Currently improving:
+- 📚 Currently applying:
   - .NET
   - Angular
   - Azure
