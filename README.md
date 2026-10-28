@@ -1,199 +1,135 @@
-# 🇧🇷 Português
+<div align="center">
 
-<h1 align="center">Olá 👋, eu sou Guilherme Sant' Anna</h1>
+# Guilherme Sant' Anna
 
-<h3 align="center">
-Desenvolvedor Full Stack | .NET | Angular | Azure
-</h3>
+**Analista de Sistemas Sênior | Desenvolvedor Full Stack | Software Architecture | Microsoft Azure**
 
-<p align="center">
-Desenvolvendo aplicações escaláveis, integrações e soluções cloud com tecnologias modernas.
-</p>
+**Senior Systems Analyst | Full Stack Developer | Software Architecture | Microsoft Azure**
 
----
+C# / .NET · Angular · TypeScript · SQL Server · Cloud Computing · AI
 
-# 🚀 Sobre Mim
+[LinkedIn](https://www.linkedin.com/in/guilherme-santanna-it/) | [Website](https://www.guilhermesantanna.dev.br) | [E-mail](mailto:guilherme.santanna.it@gmail.com)
 
-- 💻 Desenvolvedor de Software com experiência em backend, frontend e integrações
-- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-- 🧠 Clean Architecture, DDD, Event Driven e Arquitetura Cloud
-- 🌎 Interessado em oportunidades remotas nacionais e internacionais
-- 📚 Atualmente aplicando:
-  - .NET
-  - Angular
-  - Azure
-  - Testes Automatizados
-  - Inglês
+</div>
 
 ---
 
-# 🛠️ Stack Tecnológica
+## Português
 
-## Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Perfil profissional
 
-## Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Sou **Analista de Sistemas Sênior e Desenvolvedor Full Stack**, com mais de **15 anos de experiência em desenvolvimento de software**, especializado em **C#, .NET, Angular, TypeScript e SQL Server**.
 
-## Banco de Dados
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Entrego soluções tecnológicas que transformam necessidades de negócio em aplicações seguras, escaláveis e de alto desempenho. Atuo desde a análise de requisitos e a definição da arquitetura até o desenvolvimento, a integração, a implantação e a sustentação de sistemas corporativos.
 
-## Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+Possuo experiência em **arquitetura de software**, com aplicação de **Clean Architecture, Arquitetura Hexagonal, princípios SOLID, Design Patterns, Domain-Driven Design (DDD)** e arquiteturas orientadas a eventos, visando qualidade, manutenibilidade e evolução contínua das aplicações.
 
----
+Minha atuação inclui **Microsoft Azure e Cloud Computing**, com conhecimentos em **Azure Virtual Network (VNet), Azure Blob Storage, provisionamento e gerenciamento de máquinas virtuais, Network Security Groups (NSG), Azure Kubernetes Service (AKS) e Azure Container Registry (ACR)**. Também trabalho com **APIs RESTful, integração de sistemas, mensageria, sistemas distribuídos, telemetria, observabilidade, CI/CD e práticas DevOps**.
 
-# 📌 Projetos em Destaque
+Sou **Microsoft Certified: Azure Fundamentals (AZ-900)** e estou me preparando para as certificações **Azure Administrator Associate (AZ-104)** e **Azure AI Fundamentals (AI-901)**. Também estudo **IA Generativa, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP)** e automação de processos.
 
-## 🔹 ExampleEventDriven
-Exemplo de arquitetura Event Driven utilizando C#.
+Meu foco é entregar soluções que **gerem valor para o negócio, modernizem aplicações, otimizem processos, reduzam custos e aumentem a produtividade**.
 
-## 🔹 Calculadora Estudo
-Projeto em Python criado para auxiliar no controle de horas de estudo.
+### Competências técnicas
 
-## 🔹 TaskShare
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Backend | C#, .NET, APIs RESTful |
+| Frontend | Angular, TypeScript, JavaScript |
+| Bancos de dados | SQL Server, Oracle, MySQL |
+| Arquitetura | Clean Architecture, Arquitetura Hexagonal, SOLID, Design Patterns, DDD, Event-Driven Architecture |
+| Microsoft Azure | Virtual Network, Blob Storage, Virtual Machines, NSG, AKS, Container Registry |
+| DevOps e observabilidade | Docker, Git, CI/CD, telemetria, monitoramento e observabilidade |
+| Inteligência Artificial | IA Generativa, LLMs, RAG, MCP, automação de processos (em estudo) |
+
+### Certificações e desenvolvimento profissional
+
+- **Certificação obtida:** Microsoft Certified: Azure Fundamentals (AZ-900).
+- **Em preparação:** Microsoft Azure Administrator (AZ-104) e Azure AI Fundamentals (AI-901).
+- **Aprimoramento contínuo:** arquitetura de soluções Azure, serviços de nuvem, inteligência artificial e inglês profissional.
+
+### Projetos em destaque
+
+**ExampleEventDriven**  
+Projeto demonstrativo de arquitetura orientada a eventos com C#.
+
+**Calculadora Estudo**  
+Aplicação em Python para acompanhamento das horas de estudo.
+
+**TaskShare**  
 Plataforma SaaS para gerenciamento de solicitações e tarefas.
 
-## 🔹 LayerCloud
-Estudos de arquitetura cloud e soluções Azure voltadas para empresas.
+**LayerCloud**  
+Estudos e soluções de arquitetura em nuvem com foco em Microsoft Azure e cenários corporativos.
+
+### Objetivos profissionais
+
+Atuar em projetos de engenharia de software, arquitetura e Cloud Computing, contribuindo para a modernização de sistemas e o desenvolvimento de soluções escaláveis. Tenho interesse em oportunidades remotas no Brasil e no exterior, incluindo contratos de prestação de serviços, e em continuar evoluindo minha comunicação em inglês.
 
 ---
 
-# 🔥 GitHub Streak
+## English
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=svcguilherme&theme=tokyonight" 
-  />
-</p>
+### Professional summary
 
----
+I am a **Senior Systems Analyst and Full Stack Developer** with over **15 years of software development experience**, specializing in **C#, .NET, Angular, TypeScript, and SQL Server**.
 
-# 🌎 Conecte-se comigo
+I deliver technology solutions that turn business requirements into secure, scalable, high-performance applications. I contribute throughout the software development lifecycle, from requirements analysis and architectural design to development, integration, deployment, and ongoing support of enterprise systems.
 
-- 💼 LinkedIn
-- 🌐 www.guilhermesantanna.dev.br
-- 📧 guilherme.santanna.it@gmail.com
+My background includes **software architecture**, applying **Clean Architecture, Hexagonal Architecture, SOLID principles, Design Patterns, Domain-Driven Design (DDD)**, and event-driven architectures to improve maintainability, quality, and long-term evolution.
 
----
+I work with **Microsoft Azure and Cloud Computing**, including **Azure Virtual Network (VNet), Azure Blob Storage, virtual machine provisioning and management, Network Security Groups (NSG), Azure Kubernetes Service (AKS), and Azure Container Registry (ACR)**. My experience also covers **RESTful APIs, systems integration, messaging, distributed systems, telemetry, observability, CI/CD, and DevOps practices**.
 
-# 🚀 Objetivos Atuais
+I hold the **Microsoft Certified: Azure Fundamentals (AZ-900)** credential and am preparing for the **Microsoft Azure Administrator (AZ-104)** and **Azure AI Fundamentals (AI-901)** exams. I am also studying **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP)**, and process automation.
 
-- Me tornar especialista em .NET e Angular
-- Melhorar minha comunicação em inglês
-- Construir produtos SaaS escaláveis
-- Trabalhar como contractor em projetos nacionais
-- Trabalhar como contractor em projetos internacionais
+My focus is on delivering solutions that **create business value, modernize applications, streamline processes, reduce costs, and improve productivity**.
 
----
+### Technical expertise
 
-# 🇺🇸 English
+| Area | Technologies and practices |
+| --- | --- |
+| Backend | C#, .NET, RESTful APIs |
+| Frontend | Angular, TypeScript, JavaScript |
+| Databases | SQL Server, Oracle, MySQL |
+| Architecture | Clean Architecture, Hexagonal Architecture, SOLID, Design Patterns, DDD, Event-Driven Architecture |
+| Microsoft Azure | Virtual Network, Blob Storage, Virtual Machines, NSG, AKS, Container Registry |
+| DevOps and observability | Docker, Git, CI/CD, telemetry, monitoring, and observability |
+| Artificial Intelligence | Generative AI, LLMs, RAG, MCP, process automation (currently studying) |
 
-<h1 align="center">Hi 👋, I'm Guilherme Sant' Anna</h1>
+### Certifications and professional development
 
-<h3 align="center">
-Software Engineer | FullStack Developer | .NET | Angular | Azure
-</h3>
+- **Earned certification:** Microsoft Certified: Azure Fundamentals (AZ-900).
+- **Preparing for:** Microsoft Azure Administrator (AZ-104) and Azure AI Fundamentals (AI-901).
+- **Continuous development:** Azure solution architecture, cloud services, artificial intelligence, and professional English communication.
 
-<p align="center">
-Building scalable applications, integrations and cloud solutions with modern technologies.
-</p>
+### Featured projects
 
----
+**ExampleEventDriven**  
+A C# demonstration project featuring event-driven architecture.
 
-# 🚀 About Me
+**Calculadora Estudo**  
+A Python application for tracking study hours.
 
-- 💻 Software Engineer with experience in backend, frontend and integrations
-- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-- 🧠 Clean Architecture, DDD, Event Driven and Cloud Architecture
-- 🌎 Interested in international remote opportunities
-- 📚 Currently applying:
-  - .NET
-  - Angular
-  - Azure
-  - Automated Tests
-  - English
+**TaskShare**  
+A SaaS platform for request and task management.
+
+**LayerCloud**  
+Cloud architecture studies and Microsoft Azure solutions focused on enterprise scenarios.
+
+### Career goals
+
+I aim to contribute to software engineering, architecture, and cloud computing projects, helping organizations modernize their systems and deliver scalable solutions. I am open to remote opportunities in Brazil and internationally, including contract-based engagements, while continuing to improve my professional English communication.
 
 ---
 
-# 🛠️ Tech Stack
+## GitHub activity
 
-## Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=svcguilherme&theme=default" alt="GitHub contribution streak for svcguilherme" />
+</div>
 
-## Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## Contato | Contact
 
-## Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
----
-
-# 📌 Featured Projects
-
-## 🔹 ExampleEventDriven
-Event Driven architecture example using C#.
-
-## 🔹 Calculadora Estudo
-Python project created to help control study hours and learning consistency.
-
-## 🔹 TaskShare
-SaaS platform for support requests and task management.
-
-## 🔹 LayerCloud
-Cloud architecture studies and enterprise-focused Azure solutions.
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=svcguilherme&theme=tokyonight" 
-  />
-</p>
-
----
-
-# 🌎 Connect With Me
-
-- 💼 LinkedIn
-- 🌐 www.guilhermesantanna.dev.br
-- 📧 guilherme.santanna.it@gmail.com
-
----
-
-# 🚀 Current Goals
-
-- Master .NET and Angular
-- Improve my English communication
-- Build scalable SaaS products
-- Work as a contractor on Brazilian projects
-- Work as a contractor on international projects
-
----
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=30&center=true&vCenter=true&width=1000&lines=Software+Engineer;FullStack+Developer;Azure+Cloud+Enthusiast;Always+Learning+New+Things" 
-  />
-</p>
+- **LinkedIn:** [linkedin.com/in/guilherme-santanna-it](https://www.linkedin.com/in/guilherme-santanna-it/)
+- **Website:** [www.guilhermesantanna.dev.br](https://www.guilhermesantanna.dev.br)
+- **E-mail:** [guilherme.santanna.it@gmail.com](mailto:guilherme.santanna.it@gmail.com)
